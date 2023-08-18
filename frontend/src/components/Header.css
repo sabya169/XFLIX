@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgb(36, 35, 35);
+    border: 1px solid black;
+}
+
+.logo-img{
+    max-height: 35px;
+}
+.header-input{
+    display: flex;
+    /* justify-content: start; */
+}
+#search-icon{
+    border: 1px solid rgb(102, 99, 99);
+    background-color: rgb(102, 99, 99);
+   padding: 5.5px;
+}

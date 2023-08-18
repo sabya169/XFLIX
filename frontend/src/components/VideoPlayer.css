@@ -1,0 +1,15 @@
+.body{
+    background-color: black;
+}
+.card-container{
+    background-color:black ;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 25px;
+}
+.iframe{
+    margin-top: 2rem;
+}
+.icon{
+    cursor: pointer;
+}

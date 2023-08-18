@@ -1,0 +1,26 @@
+
+.gen-panel-main{
+    padding: 20px;
+    background-color: rgb(36, 35, 35);
+}
+
+.btn{
+    color: aliceblue !important;
+    border-radius: 20px !important;
+}
+#btn-count{
+    width: 80px;
+   border-radius: 50px !important;
+}
+.first-row{
+    display: flex;
+    justify-content: center;
+}
+.dropdown{
+    background-color: grey;
+    color: white;
+    margin-left: 15px;
+    padding: 5px;
+    border: 1px white solid;
+    border-radius:20px;
+}
